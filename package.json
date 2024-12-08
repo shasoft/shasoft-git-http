@@ -1,0 +1,14 @@
+{
+  "name": "shasoft-git-http",
+  "description": "Working with GIT via http API",
+  "author": "Shabanov Valera",
+  "dependencies": {
+    "octocat": "*",
+    "deasync-promise": "*"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
